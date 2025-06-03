@@ -1,9 +1,9 @@
-package Maze_Game;
+package maze;
 
 import javax.swing.*;
 
-import Maze_Game.Config.*;
-import Maze_Game.Point.ScorePoint;
+import maze.Config.*;
+import maze.Point.ScorePoint;
 
 import java.awt.*;
 import java.awt.event.*;

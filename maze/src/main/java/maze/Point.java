@@ -1,10 +1,10 @@
-package Maze_Game;
+package maze;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import Maze_Game.Config.*;
+import maze.Config.*;
 
 public class Point {
     public static class ScorePoint {

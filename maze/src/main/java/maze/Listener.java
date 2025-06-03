@@ -1,8 +1,10 @@
-package Maze_Game;
+package maze;
 
 import javax.swing.JOptionPane;
+
+import maze.Config.*;
+
 import java.awt.event.*;
-import Maze_Game.Config.*;
 
 class MazeKeyListener implements KeyListener {
 

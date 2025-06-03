@@ -1,4 +1,4 @@
-package Maze_Game;
+package maze;
 
 import java.awt.Font;
 import java.util.Enumeration;
@@ -6,7 +6,7 @@ import java.util.Enumeration;
 import javax.swing.UIManager;
 import javax.swing.plaf.FontUIResource;
 
-import Maze_Game.Config.Conf;
+import maze.Config.Conf;
 
 public class Main {
 

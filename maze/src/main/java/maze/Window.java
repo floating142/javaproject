@@ -1,8 +1,8 @@
-package Maze_Game;
+package maze;
 
 import javax.swing.*;
 
-import Maze_Game.Config.*;
+import maze.Config.*;
 
 import java.awt.*;
 

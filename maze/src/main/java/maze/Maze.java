@@ -1,8 +1,8 @@
-package Maze_Game;
+package maze;
 
 import java.util.*;
 
-import Maze_Game.Config.Conf;
+import maze.Config.Conf;
 
 public class Maze {
     private static int row;// 行数

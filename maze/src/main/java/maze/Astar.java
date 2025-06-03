@@ -1,8 +1,8 @@
-package Maze_Game;
+package maze;
 
 import java.util.*;
 
-import Maze_Game.Config.*;
+import maze.Config.*;
 
 public class Astar {
     private static int[][] map;

@@ -1,11 +1,11 @@
-package Maze_Game;
+package maze;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import javax.swing.*;
 
-import Maze_Game.Point.ScorePoint;
+import maze.Point.ScorePoint;
 
 public class Config {
     public static class Conf {
